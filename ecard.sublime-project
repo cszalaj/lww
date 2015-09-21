@@ -1,0 +1,97 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"build_systems":
+	[
+		{
+			"name": "Buildtools 'ant prod'",
+			"cmd": ["ant", "prod"],
+    		"working_dir": "${project_path:${folder}}",
+    		"shell":"cmd.exe"
+		},
+		{
+			"name": "Buildtools 'ant dev'",
+			"cmd": ["ant", "dev"],
+    		"working_dir": "${project_path:${folder}}",
+    		"shell":"cmd.exe"
+		},
+		{
+			"name": "Buildtools 'ant nobody dev'",
+			"cmd": ["ant", "nobody", "dev"],
+    		"working_dir": "${project_path:${folder}}",
+			"shell":"cmd.exe"
+		}
+
+		,{
+			"name": "Buildtools 'ant robert dev'",
+			"cmd": ["ant", "robert","dev"],
+    		"working_dir": "${project_path:${folder}}",
+			"shell":"cmd.exe"
+		}
+		,{
+			"name": "Buildtools 'ant chris dev'",
+			"cmd": ["ant", "chris","dev"],
+    		"working_dir": "${project_path:${folder}}",
+			"shell":"cmd.exe"
+		}
+		,{
+			"name": "Buildtools 'ant john dev'",
+			"cmd": ["ant", "john","dev"],
+    		"working_dir": "${project_path:${folder}}",
+			"shell":"cmd.exe"
+		}
+		,{
+			"name": "Buildtools 'ant tony dev'",
+			"cmd": ["ant", "tony","dev"],
+    		"working_dir": "${project_path:${folder}}",
+			"shell":"cmd.exe"
+		}
+		,{
+			"name": "Buildtools 'ant matt dev'",
+			"cmd": ["ant", "matt","dev"],
+    		"working_dir": "${project_path:${folder}}",
+			"shell":"cmd.exe"
+		}
+		,{
+			"name": "Buildtools 'ant billy dev'",
+			"cmd": ["ant", "billy","dev"],
+    		"working_dir": "${project_path:${folder}}",
+			"shell":"cmd.exe"
+		}
+		,{
+			"name": "Buildtools 'ant kevin dev'",
+			"cmd": ["ant", "kevin","dev"],
+    		"working_dir": "${project_path:${folder}}",
+			"shell":"cmd.exe"
+		}
+		,{
+			"name": "Buildtools 'ant jim dev'",
+			"cmd": ["ant", "jim","dev"],
+    		"working_dir": "${project_path:${folder}}",
+			"shell":"cmd.exe"
+		}
+		,{
+			"name": "Buildtools 'ant brandon dev'",
+			"cmd": ["ant", "brandon","dev"],
+    		"working_dir": "${project_path:${folder}}",
+			"shell":"cmd.exe"
+		}
+		,{
+			"name": "Buildtools 'ant mateusz dev'",
+			"cmd": ["ant", "mateusz","dev"],
+    		"working_dir": "${project_path:${folder}}",
+			"shell":"cmd.exe"
+		}
+		,{
+			"name": "Buildtools 'ant paul dev'",
+			"cmd": ["ant", "paul","dev"],
+    		"working_dir": "${project_path:${folder}}",
+			"shell":"cmd.exe"
+		}
+
+	]
+}

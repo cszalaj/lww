@@ -1,0 +1,464 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"honr",
+				"honor_id"
+			],
+			[
+				"donatio",
+				"donation_id"
+			],
+			[
+				"hono",
+				"honor_id"
+			],
+			[
+				"billing",
+				"billing_country"
+			],
+			[
+				"honor_",
+				"honor_message"
+			],
+			[
+				"donor",
+				"donor_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ecard.php",
+			"settings":
+			{
+				"buffer_size": 7098,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "donate.php",
+			"settings":
+			{
+				"buffer_size": 17203,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 4270,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "preview_ecard.php",
+			"settings":
+			{
+				"buffer_size": 3889,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "generate.php",
+			"settings":
+			{
+				"buffer_size": 3014,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/szalaj/Sites/ecard-new/confirm_send.php",
+		"/Users/szalaj/Sites/ecard-new/preview_ecard.php",
+		"/Users/szalaj/Sites/ecard-new/generate.php",
+		"/Users/szalaj/Sites/ecard-new/images/generate.php",
+		"/Users/szalaj/Sites/ecard-new/js/site.js",
+		"/Users/szalaj/Sites/ecard-new/includes/top.php",
+		"/Users/szalaj/Sites/ecard-new/css/theme.css",
+		"/Users/szalaj/Sites/ecard-new/css/custom.css",
+		"/Users/szalaj/Sites/ecard-new/donate.php",
+		"/Users/szalaj/Sites/ecard-new/submitpayment.php",
+		"/Users/szalaj/Sites/ecard-new/index.php",
+		"/Users/szalaj/Sites/ecard-new/includes/US_states.txt",
+		"/Users/szalaj/Sites/ecard-new/includes/IN_states.txt",
+		"/Users/szalaj/Sites/ecard-new/includes/CA_states.txt",
+		"/Users/szalaj/Sites/ecard-new/includes/AU_states.txt",
+		"/Users/szalaj/Sites/ecard-new/image-test.php",
+		"/Users/szalaj/Sites/ecard-new/js/jquery.js",
+		"/Users/szalaj/Sites/ecard-new/js/bootstrap.min.js",
+		"/Users/szalaj/Sites/ecard-new/includes/states.php",
+		"/Users/szalaj/Sites/ecard-new/includes/IN_states",
+		"/Users/szalaj/Sites/ecard-new/ecard.sublime-project",
+		"/Users/szalaj/Desktop/myWork/app.cpp",
+		"/Users/szalaj/Sites/ecard-new/vendors/authorize-net/lib/ssl/cert.pem",
+		"/Users/szalaj/Sites/ecard-new/ecard.php",
+		"/Users/szalaj/Library/Caches/Cleanup At Startup/Transmit/6EDE9C00-261F-4088-B70A-AD018DA654E3/handle_donation.php",
+		"/Users/szalaj/Sites/ecard-new/thankyou.php",
+		"/Users/szalaj/Sites/ecard-new/vendors/authorize-net/lib/AuthorizeNetAIM.php",
+		"/Users/szalaj/Sites/ecard-new/testauth.php",
+		"/Users/szalaj/Sites/ecard-new/failed.php",
+		"/Users/szalaj/Sites/ecard-new/gatewayapi/inc_gatewaysettings.php",
+		"/Users/szalaj/Sites/ecard-new/gatewayapi/inc_dates.php",
+		"/Users/szalaj/Sites/ecard-new/vendors/authorize-net/README.md",
+		"/Users/szalaj/Sites/vendors/authorize-net/README.md",
+		"/Users/szalaj/Sites/ecard-new/handle_donate.php",
+		"/Users/szalaj/Desktop/submitpayment.php.php",
+		"/Users/szalaj/Sites/ecard_new/confirm_send.php",
+		"/Users/szalaj/Desktop/work/www-strathmore-org/www/modules/cart/StrathStatusBar.xsl",
+		"/Users/szalaj/Desktop/work/www-strathmore-org/www/prube/pRubeAPage/Header.xsl",
+		"/Users/szalaj/Desktop/work/www-strathmore-org/www_str/index.php",
+		"/Users/szalaj/Desktop/work/www-strathmore-org/www/modules/cart/cart.php",
+		"/Users/szalaj/Desktop/work/www-strathmore-org/www/modules/cart/tessituraELPGetTitleKeywords.php",
+		"/Users/szalaj/Desktop/work/www-strathmore-org/www/modules/cart/MyAccount.xsl",
+		"/Users/szalaj/Desktop/work/www-strathmore-org/strathmore.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/szalaj/Sites/ecard-new",
+			"/Users/szalaj/Desktop/work/www-strathmore-org"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"acktype",
+			"ecard",
+			"img",
+			"generate.php",
+			"donate",
+			"donateNe",
+			"display: none",
+			"img-circle",
+			"api.authorize.net",
+			"api1.authorize.net",
+			"api2.authorize.net",
+			"mysql_real_escape_string",
+			"ate_default_timezone_set",
+			"date(",
+			"	",
+			" 	 ",
+			">\"",
+			"\",",
+			"	=>	\"",
+			" => \"",
+			" => ",
+			"	",
+			"	=>	\"",
+			",",
+			"'",
+			"	=>	",
+			"::",
+			"donation_id",
+			"column",
+			"media",
+			"In your honor/the memory of [name]",
+			"[donor name]",
+			"donor name",
+			"md5",
+			"$ip",
+			"$GatewaySettings",
+			"l2:sitemessage",
+			"siteMessage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<option value=",
+			">",
+			"</option>",
+			">",
+			"<option value=",
+			">",
+			"</option>",
+			"\"",
+			">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ecard.php",
+					"settings":
+					{
+						"buffer_size": 7098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3069,
+								3069
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 789.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "donate.php",
+					"settings":
+					{
+						"buffer_size": 17203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7261,
+								7211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 4270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3515,
+								3515
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 596.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "preview_ecard.php",
+					"settings":
+					{
+						"buffer_size": 3889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3609,
+								3609
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 668.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "generate.php",
+					"settings":
+					{
+						"buffer_size": 3014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2321,
+								2321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"donate",
+				"donate.php"
+			],
+			[
+				"theme",
+				"css/theme.css"
+			],
+			[
+				"cart",
+				"www/modules/cart/cart.php"
+			],
+			[
+				"strathstat",
+				"www/modules/cart/StrathStatusBar.xsl"
+			],
+			[
+				"header",
+				"www/prube/pRubeAPage/Header.xsl"
+			],
+			[
+				"index",
+				"www_str/index.php"
+			],
+			[
+				"tessituraelp",
+				"www/modules/cart/tessituraELPGetTitleKeywords.php"
+			],
+			[
+				"index.php",
+				"www_str/index.php"
+			],
+			[
+				"vpn",
+				"l2/attributes/vpn-users.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true
+}

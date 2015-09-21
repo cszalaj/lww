@@ -1,0 +1,37 @@
+body { background-image: url('../images/bg.jpg'); background-attachment: fixed; background-position: top center; background-repeat:repeat-x; }
+#mainContain { padding-top: 40px; }
+
+#ecard_panel { text-align: center; }
+
+h1 {
+    text-shadow: 2px 2px #ffffff;
+}
+
+header { padding-bottom: 30px; }
+
+.container { max-width: 1000px !important; }
+.column { /*height: 400px;*/ }
+.column h2, .noTopMarg { margin-top: 0px; }
+
+.left-inner-addon {
+    position: relative;
+}
+.left-inner-addon input {
+    padding-left: 22px;    
+}
+.left-inner-addon span {
+    position: absolute;
+    padding: 9px 12px;
+    pointer-events: none;
+}
+.float-left {
+	float:left;
+}
+
+.index-donate label {
+	padding-right:8px;
+}
+
+.btn-primary {
+	margin-top:5px;
+}
